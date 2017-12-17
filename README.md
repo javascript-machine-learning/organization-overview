@@ -16,8 +16,6 @@ The repository gives you an overview of all the resources for the [BRIIM - JavaS
 * [Neural Network in JavaScript with Deeplearn.js](https://github.com/javascript-machine-learning/color-accessibility-neural-network-deeplearnjs)
 * [MNIST Digit Recognition Neural Network in JavaScript with Deeplearn.js](https://github.com/javascript-machine-learning/mnist-neural-network-deeplearnjs)
 
-https://github.com/javascript-machine-learning/color-accessibility-neural-network-deeplearnjs
-
 ## Linear Algebra, Calculus, Statistics
 
 * [Matrix Operations in JavaScript](https://github.com/javascript-machine-learning/linear-algebra-matrix)
