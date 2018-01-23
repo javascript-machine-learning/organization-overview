@@ -16,6 +16,11 @@ The repository gives you an overview of all the resources for the [BRIIM - JavaS
 * [Neural Network in JavaScript with Deeplearn.js](https://github.com/javascript-machine-learning/color-accessibility-neural-network-deeplearnjs)
 * [MNIST Digit Recognition Neural Network in JavaScript with Deeplearn.js](https://github.com/javascript-machine-learning/mnist-neural-network-deeplearnjs)
 
+## Domain Specific
+
+* [Recommendation System in JavaScript with MovieLens Database](https://github.com/javascript-machine-learning/movielens-recommender-system-javascript)
+* [Spam Classifier with SVM in JavaScript](https://github.com/javascript-machine-learning/svm-spam-classifier-javascript)
+
 ## Linear Algebra, Calculus, Statistics
 
 * [Matrix Operations in JavaScript](https://github.com/javascript-machine-learning/linear-algebra-matrix)
