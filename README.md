@@ -1,6 +1,6 @@
 # BRIIM - JavaScript in Machine Learning
 
-The repository gives you an overview of all the resources for [BRIIM - JavaScript in Machine Learning](https://bri.im/). You can [contribute](https://github.com/javascript-machine-learning/briim-website-content) to the content to the official website too.
+The repository gives you an overview of all the resources for [BRIIM - JavaScript in Machine Learning](https://bri.im/). You can [contribute](https://github.com/javascript-machine-learning/briim-website-content) content to the official website too.
 
 ## Intro
 
