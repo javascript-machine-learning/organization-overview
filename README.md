@@ -28,6 +28,7 @@ The repository gives you an overview of all the resources for [BRIIM - JavaScrip
 ## Linear Algebra, Calculus, Statistics
 
 * [Matrix Operations in JavaScript](https://github.com/javascript-machine-learning/linear-algebra-matrix)
+* [Array Sort in JavaScript](https://www.scaler.com/topics/javascript/array-sort-in-javascript/)
 
 ## Utility Libraries
 
